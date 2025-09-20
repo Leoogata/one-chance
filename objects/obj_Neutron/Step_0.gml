@@ -18,3 +18,4 @@ if (fade_out) {
         instance_destroy();
     }
 }
+
