@@ -9,8 +9,8 @@
   "name":"obj_counter_minigame3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_Minigame_3",
+    "path":"folders/Objects/obj_Minigame_3.yy",
   },
   "parentObjectId":null,
   "persistent":false,

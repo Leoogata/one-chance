@@ -10,8 +10,8 @@
   "name":"obj_Neutron",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"objs",
+    "path":"folders/Objects/obj_Minigame_3/objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

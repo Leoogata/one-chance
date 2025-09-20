@@ -9,8 +9,8 @@
   "name":"obj_Proton_Spawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Spawners",
+    "path":"folders/Objects/obj_Minigame_3/Spawners.yy",
   },
   "parentObjectId":null,
   "persistent":false,

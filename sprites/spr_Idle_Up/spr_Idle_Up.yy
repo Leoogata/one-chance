@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"spr_Cid_Idle",
+    "path":"folders/Sprites/spr_Cid/spr_Cid_Idle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

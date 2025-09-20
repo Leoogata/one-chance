@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"spr_Cid_Walk",
+    "path":"folders/Sprites/spr_Cid/spr_Cid_Walk.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
