@@ -1,0 +1,1 @@
+global.counter_lost_points = 0;

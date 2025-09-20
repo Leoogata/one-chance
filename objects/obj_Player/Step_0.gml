@@ -1,4 +1,4 @@
-// Reset velocidade
+ // Reset velocidade
 var dir_x = 0;
 var dir_y = 0;
 

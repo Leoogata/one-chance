@@ -1,0 +1,11 @@
+timer++;
+
+if (timer >= spawn_time) {
+    timer = 0;
+    
+    var  y_Limits_Proton = irandom_range(room_height/3, room_height*2/3);
+    instance_create_layer(0, y_Limits_Proton, "Instances", obj_Proton);
+	
+	spawn_time = irandom_range(240, 360);
+}
+
