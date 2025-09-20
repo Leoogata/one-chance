@@ -1,1 +1,1 @@
-global.counter = 0;
+countdown = 60;
