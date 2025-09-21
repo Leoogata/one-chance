@@ -1,0 +1,2 @@
+global.score_vending = 0
+
