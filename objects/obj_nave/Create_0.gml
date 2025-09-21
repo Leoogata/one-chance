@@ -31,7 +31,7 @@ countSpace = 0
 alarmAtivado = false
 tempo = 0
 final = false
-necessarioParaGanhar = 2
+necessarioParaGanhar = 40
 
 	
 for (var count = 0; count <= 200; count++){
