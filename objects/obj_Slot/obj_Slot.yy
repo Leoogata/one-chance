@@ -9,8 +9,8 @@
   "name":"obj_Slot",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_Minigame_Vending_Machine",
-    "path":"folders/Objects/obj_Minigame_Vending_Machine.yy",
+    "name":"objs_Slot",
+    "path":"folders/Objects/obj_Minigame_Vending_Machine/objs_Slot.yy",
   },
   "parentObjectId":null,
   "persistent":false,

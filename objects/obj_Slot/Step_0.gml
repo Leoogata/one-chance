@@ -8,6 +8,7 @@ if (!filled) {
             alvo.x = x;
             alvo.y = y;
             filled = true;
+			global.score_vending += 1;
         }
     }
 }

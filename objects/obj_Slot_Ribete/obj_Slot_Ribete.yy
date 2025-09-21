@@ -1,19 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gamerule",
+  "%Name":"obj_Slot_Ribete",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_gamerule",
+  "name":"obj_Slot_Ribete",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_Minigame_3",
-    "path":"folders/Objects/obj_Minigame_3.yy",
+    "name":"objs_Slot",
+    "path":"folders/Objects/obj_Minigame_Vending_Machine/objs_Slot.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_Slot",
+    "path":"objects/obj_Slot/obj_Slot.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Slot_Ribete",
+    "path":"sprites/spr_Slot_Ribete/spr_Slot_Ribete.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

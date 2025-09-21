@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Carry_Parafuso",
+  "%Name":"obj_Carry_Ribete",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Carry_Parafuso",
+  "name":"obj_Carry_Ribete",
   "overriddenProperties":[],
   "parent":{
     "name":"objs_Carry",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Carry_Parafuso",
-    "path":"sprites/spr_Carry_Parafuso/spr_Carry_Parafuso.yy",
+    "name":"spr_Carry_Ribete",
+    "path":"sprites/spr_Carry_Ribete/spr_Carry_Ribete.yy",
   },
   "spriteMaskId":null,
   "visible":true,
