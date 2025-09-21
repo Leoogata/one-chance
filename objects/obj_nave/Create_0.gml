@@ -1,5 +1,6 @@
 global.jogoIniciou = false
 global.velocidade = 0
+global.audio = noone
 
 
 var i = 0
@@ -22,7 +23,7 @@ velocidadeTexto = 4; // menor = mais rápido
 contador = 0;
 
 
-
+acabou = false;
 pontos = 0;
 vidas = 3;
 coef = 0;

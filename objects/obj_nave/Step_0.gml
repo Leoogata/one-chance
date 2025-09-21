@@ -2,7 +2,7 @@
 if (keyboard_check_pressed(vk_space)){
 	if (countSpace == 0){
 		global.jogoIniciou = true;
-		audio_play_sound(snd_hack_music, 1, true);
+		global.audio = audio_play_sound(snd_hack_music, 1, true);
 		global.velocidade = -1
 	}
 	countSpace++;
@@ -62,6 +62,7 @@ if (colisao != noone) {
 	if (pontos == necessarioParaGanhar && !alarmAtivado){
 		alarm[2] = room_speed * 1
 		alarmAtivado = true
+		acabou = true
 	}
 	
 	instance_destroy(colisao);
@@ -83,4 +84,7 @@ if (letras <= string_length(textoCompleto)) {
 
 tempo = alarm[0]
 
+if (acabou == true){
+	audio_stop_sound(global.audio);
+}
 

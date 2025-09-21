@@ -1,17 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Player",
+  "%Name":"minigame1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Player",
+  "name":"minigame1",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_Player",
-    "path":"folders/Objects/obj_Player.yy",
+    "name":"acessosSalas",
+    "path":"folders/Objects/acessosSalas.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Idle_Down",
-    "path":"sprites/spr_Idle_Down/spr_Idle_Down.yy",
+    "name":"spr_bac1",
+    "path":"sprites/spr_bac1/spr_bac1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

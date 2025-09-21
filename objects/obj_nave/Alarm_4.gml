@@ -1,2 +1,2 @@
-fade_Out()
-alarm[5] = room_speed * 3
+
+room_goto(Crazy)
