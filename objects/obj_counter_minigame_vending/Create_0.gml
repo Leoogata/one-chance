@@ -1,1 +1,3 @@
-countdown = 60;
+countdown = 5;
+fade_active = false;
+fade_alpha = 0;
