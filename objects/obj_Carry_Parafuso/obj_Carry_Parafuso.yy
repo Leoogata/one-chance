@@ -1,19 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gamerule",
+  "%Name":"obj_Carry_Parafuso",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_gamerule",
+  "name":"obj_Carry_Parafuso",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_Minigame_3",
-    "path":"folders/Objects/obj_Minigame_3.yy",
+    "name":"objs_Carry",
+    "path":"folders/Objects/obj_Minigame_Vending_Machine/objs_Carry.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_Carry",
+    "path":"objects/obj_Carry/obj_Carry.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Carry_Parafuso",
+    "path":"sprites/spr_Carry_Parafuso/spr_Carry_Parafuso.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
