@@ -16,7 +16,7 @@ max_speed = 6; // limite de velocidade
 fric = 0.1;    // desaceleração quando não aperta tecla
 // Move a camada na horizontal
 
-textoCompleto = "O sistema foi invadido! Entre no firewall, colete todos os escudos sem ser afetado pelos Malwares para restaurar o sistema!\n\n\nAtive 40 escudos em 60 segundos para vencer!\n\n\nSer afetado pelos Malwares 3 vezes causara corrompimento completo!\n\n\n\nPressione Espaco para iniciar a contencao!";
+textoCompleto = "The system has been hacked! Enter the firewall, collect all the shields without being affected by the Malwares to restore the system!\n\nActivate 40 shields in 60 seconds to win!\n\nBeing affected by the Malwares 3 times will cause complete corruption!\n\n\nPress Space to start the containment!";
 textoMostrado = "";
 velocidadeTexto = 4; // menor = mais rápido
 contador = 0;
