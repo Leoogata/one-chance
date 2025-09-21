@@ -1,0 +1,1 @@
+global.firstTime1 = 0 

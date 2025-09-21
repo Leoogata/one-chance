@@ -7,6 +7,6 @@ if (fade_active) {
 
     if (fade_alpha >= 1) {
         fade_alpha = 1;
-        room_restart();	
+        game_restart();	
     }
 }

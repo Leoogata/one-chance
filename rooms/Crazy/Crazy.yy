@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"Crazy",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/Crazy/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -164,7 +164,7 @@
     {"name":"inst_53AB946B","path":"rooms/Crazy/Crazy.yy",},
     {"name":"inst_3672AC35","path":"rooms/Crazy/Crazy.yy",},
     {"name":"inst_31C8D787","path":"rooms/Crazy/Crazy.yy",},
-    {"name":"inst_6C99492E","path":"rooms/Crazy/Crazy.yy",},
+    {"name":"inst_6133B4EC","path":"rooms/Crazy/Crazy.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -331,7 +331,7 @@
         {"$GMRInstance":"v2","%Name":"inst_53AB946B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_53AB946B","objectId":{"name":"minigame1","path":"objects/minigame1/minigame1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2866242,"scaleY":0.27741936,"x":352.0,"y":544.0,},
         {"$GMRInstance":"v2","%Name":"inst_3672AC35","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3672AC35","objectId":{"name":"minigame2","path":"objects/minigame2/minigame2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-0.20367177,"scaleX":0.30935252,"scaleY":0.22658612,"x":800.0,"y":864.0,},
         {"$GMRInstance":"v2","%Name":"inst_31C8D787","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31C8D787","objectId":{"name":"minigame3","path":"objects/minigame3/minigame3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-0.4817329,"scaleX":0.2866242,"scaleY":0.32326284,"x":1184.0,"y":768.0,},
-        {"$GMRInstance":"v2","%Name":"inst_6C99492E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6C99492E","objectId":{"name":"minigame4","path":"objects/minigame4/minigame4.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.3447099,"scaleY":0.32326284,"x":960.0,"y":192.0,},
+        {"$GMRInstance":"v2","%Name":"inst_6133B4EC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6133B4EC","objectId":{"name":"minigame4","path":"objects/minigame4/minigame4.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.4539249,"scaleY":0.41993955,"x":928.0,"y":224.0,},
       ],"layers":[],"name":"acesso_salas","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"blc_objetosuperior","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"blc_objetosuperior","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":68,"SerialiseWidth":120,"TileCompressedData":[
           -293,-2147483648,1,0,-134,-2147483648,4,356,357,358,359,-115,-2147483648,5,358,430,431,432,433,-84,-2147483648,
