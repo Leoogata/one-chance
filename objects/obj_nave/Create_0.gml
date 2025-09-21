@@ -28,8 +28,10 @@ vidas = 3;
 coef = 0;
 prevValue = 0
 countSpace = 0
-
+alarmAtivado = false
 tempo = 0
+final = false
+necessarioParaGanhar = 2
 
 	
 for (var count = 0; count <= 200; count++){

@@ -4,6 +4,7 @@ switch (modo) {
         if (alpha <= 0) {
             alpha = 0;
             modo = "parado";
+			alarm[0] = room_speed * 2
         }
     break;
 
@@ -13,6 +14,7 @@ switch (modo) {
             alpha = 1;
             modo = "parado";
             // aqui você pode colocar room_goto(xxx) se quiser trocar de room
+			alarm[0] = room_speed * 2
         }
     break;
 }
