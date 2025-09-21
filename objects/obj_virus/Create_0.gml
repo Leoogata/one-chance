@@ -4,5 +4,5 @@ amplitude = 5;         // quanto vai oscilar (10 pixels para cima/baixo)
 velocidade_osc = 0.05;  // velocidade da oscilação
 tempo = random(360);    // fase inicial (para não ficarem iguais)
 
-image_xscale = 0.02; // metade no eixo X
-image_yscale = 0.02;
+image_xscale = 0.1; // metade no eixo X
+image_yscale = 0.1;

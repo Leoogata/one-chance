@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_boost_good",
-    "path":"sprites/spr_boost_good/spr_boost_good.yy",
+    "name":"spr_bac1",
+    "path":"sprites/spr_bac1/spr_bac1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

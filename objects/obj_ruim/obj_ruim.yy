@@ -32,12 +32,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_boost_bad",
-    "path":"sprites/spr_boost_bad/spr_boost_bad.yy",
+    "name":"spr_bac1a",
+    "path":"sprites/spr_bac1a/spr_bac1a.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_boost_bad",
-    "path":"sprites/spr_boost_bad/spr_boost_bad.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
