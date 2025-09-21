@@ -30,6 +30,9 @@ prevValue = 0
 countSpace = 0
 
 tempo = 0
+final = false
+necessarioParaGanhar = 40
+
 
 	
 for (var count = 0; count <= 200; count++){
