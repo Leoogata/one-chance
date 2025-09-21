@@ -1,5 +1,5 @@
-if (pontos >= 40){
-	room_goto(rm_menu);
+if (pontos >= necessarioParaGanhar){
+	alarm[2] = room_speed * 1
 } else {
 	scr_explosao()
 }

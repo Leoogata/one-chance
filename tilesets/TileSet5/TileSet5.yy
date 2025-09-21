@@ -8,16 +8,19 @@
     "TileSerialiseData":[],
   },
   "name":"TileSet5",
-  "out_columns":8,
+  "out_columns":49,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"spr_Tile",
-    "path":"folders/Sprites/spr_Minigame_3/spr_Tile.yy",
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite15",
+    "path":"sprites/Sprite15/Sprite15.yy",
+  },
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -31,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":72,
+  "tile_count":2368,
 }
