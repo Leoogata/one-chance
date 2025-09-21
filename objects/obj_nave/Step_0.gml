@@ -47,11 +47,9 @@ if (colisao != noone) {
 		pontos = pontos - 1
 		vidas = vidas - 1
 		audio_play_sound(snd_error, 1, false);
-		coef = 1
 		
 	} else {
-		coef += 0.5
-		global.velocidade = -2 * coef
+		global.velocidade = -2 
 		pontos = pontos + 1
 		audio_play_sound(snd_speed, 1, false);
 		screen_shake(5, 5)
@@ -61,8 +59,9 @@ if (colisao != noone) {
 		scr_explosao()
 	} 
 	
-	if (pontos == 40){
-		room_goto(Room1);
+	if (pontos == necessarioParaGanhar && !alarmAtivado){
+		alarm[2] = room_speed * 1
+		alarmAtivado = true
 	}
 	
 	instance_destroy(colisao);
